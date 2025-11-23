@@ -1,6 +1,6 @@
-# Welcome! 👋
+# Hello! 👋
 
-Hi there! I'm ConnectedSystems, a Computational Decision Systems Researcher interested in
+I'm ConnectedSystems, a Computational Decision Systems Researcher interested in
 building scalable integrated modelling systems in multi-disciplinary contexts for
 robust decision making.
 
@@ -23,7 +23,6 @@ Here are some of the technologies and tools I work with:
 - **Web Development:** Javascript, HTML, CSS
 - **Databases:** MySQL, PostgreSQL
 - **DevOps:** Docker, GitHub Actions
-- **Cloud:** AWS
 - **Others:** Git, Linux, REST APIs
 
 ## 📈 GitHub Stats
@@ -51,4 +50,5 @@ Here are some of the projects I've been working on:
 - **Description:** A decision support platform for coral reef restoration.
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a
-project or just have a chat about technology. 😊
+project or just have a chat about tech. 😊
+
